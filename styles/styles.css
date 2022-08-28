@@ -86,7 +86,7 @@ section {
     transform: translateY(0) scaleY(1);
   }
 }
-
+/*controls*/
 .controls {
   position: fixed;
   z-index: 10;
@@ -396,11 +396,11 @@ section {
   color: var(--color-grey-2);
 }
 
+/*Portafolios*/
 .port-text {
   padding: 2rem 0;
   text-align: center;
 }
-
 .portfolios {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -473,7 +473,7 @@ section {
 }
 
 
-
+/*Contact section*/
 
 .contact-content-con {
   display: flex;
